@@ -1,5 +1,7 @@
 # Pokedex API 
 
+Live Demo: https://otaviogrocha.github.io/pokedex-api-js/
+
 ## Projeto para praticar o consumo de API's utilizando a API de Pokémon ["PokeApi"](https://pokeapi.co) com JS, HTML e CSS.
 <br>
 

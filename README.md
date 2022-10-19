@@ -1,6 +1,6 @@
 # Pokedex API 
 
-## Projeto utilizando a API de Pokémon ["PokeApi"](https://pokeapi.co) com JS, HTML e CSS.
+## Projeto para praticar o consumo de API's utilizando a API de Pokémon ["PokeApi"](https://pokeapi.co) com JS, HTML e CSS.
 <br>
 
 - Uso de Fetch JS para consumir a API;

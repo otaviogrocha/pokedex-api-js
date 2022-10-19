@@ -25,7 +25,7 @@ function GetApi(){
 
         const ul = document.querySelector('.pokedex')
 
-        ul.innerHTML = lisPokemons
+        ul.innerHTML = lisPokemons;
         console.log(data)
     })
 }
